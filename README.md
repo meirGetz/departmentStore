@@ -1,2 +1,0 @@
-# departmentStore
-Online tool store.
